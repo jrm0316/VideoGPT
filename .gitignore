@@ -1,0 +1,14 @@
+.env
+
+audios/
+temp/
+cache/
+transcricoes/
+
+__pycache__/
+
+*.mp4
+*.mp3
+*.wav
+*.faiss
+*.npy
